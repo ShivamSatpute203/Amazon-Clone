@@ -4,7 +4,7 @@ This project replicates the core UI design and layout of the Amazon website, inc
 
 The goal of this project was to strengthen frontend development fundamentals, improve responsive web design skills, and practice building a real-world commercial website layout from scratch.
 
-<h3>Features<h3/>
+## Features
   
 - Responsive Amazon-style homepage
 - Modern navigation bar with search section
