@@ -27,7 +27,7 @@ The goal of this project was to strengthen frontend development fundamentals, im
 ## Screenshots
 
 <img width="1590" height="690" alt="image" src="https://github.com/user-attachments/assets/6c1e1f4a-6b16-4424-9fb2-920bf9815bea" />
-
+<br/>
 <img width="1513" height="716" alt="image" src="https://github.com/user-attachments/assets/9f3c277b-f950-41f5-8691-717ca1409cae" />
 
 
