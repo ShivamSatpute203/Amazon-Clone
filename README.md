@@ -1,4 +1,5 @@
 # Amazon-Clone
 Amazon clone based on HTML &amp; CSS
-<hr/>
+<br/>
 Author - Shivam Satpute
+<hr/>
